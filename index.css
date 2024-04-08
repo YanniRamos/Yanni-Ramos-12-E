@@ -1,0 +1,15 @@
+.a1{
+    background-image:url(Images/best-shoe-brands-nike-asics-celine\ \(1\).webp);
+    background-position: center;
+      background-position-y: 50px;
+      background-size: cover;
+      background-repeat: no-repeat;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 600px;
+      width: 100%;
+      background-color: #111;
+      color:red;}
+     
